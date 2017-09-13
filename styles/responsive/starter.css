@@ -227,13 +227,13 @@ hr {
 .col {
 	position: relative;
 	float: left;
-	padding-left: 1.4rem;
-	padding-right: 1.4rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
 }
 
 .row .row {
-	margin-left: -1.4rem;
-	margin-right: -1.4rem;
+	margin-left: -1rem;
+	margin-right: -1rem;
 }
 
 .col.lg-12 {
