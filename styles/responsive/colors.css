@@ -132,3 +132,8 @@ h5 {
 	color: #DDFFDD;
 	text-shadow: 0 0 0.2em rgba(150, 150, 150, 1), 0.15em 0.15em 0.25em rgba(128, 128, 128, 1);
 }
+
+
+.btn.blue {
+	background-color: #00F;
+}
